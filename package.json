@@ -51,7 +51,7 @@
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
     "react-immutable-proptypes": "^2.1.0",
-    "redux": "^3.7.2"
+    "redux": "^4.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
